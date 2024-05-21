@@ -1,1 +1,0 @@
-import{i as t,r as n,o as s,a as o,w as a,g as c}from"./index-ClNerc5i.js";const r={},i=c("h1",null,"This is a settings page",-1);function _(l,f){const e=n("v-container");return s(),o(e,{class:"d-flex align-center justify-center"},{default:a(()=>[i]),_:1})}const p=t(r,[["render",_]]);export{p as default};
